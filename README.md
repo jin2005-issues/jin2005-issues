@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**jin2005-issue/jin2005-issue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<---
+**jin2005-issues/jin2005-issues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
