@@ -11,6 +11,6 @@ Please Use E-Mail Address mailto:2314662431@qq.com To Contact Me
 ![This Linux Kernel Source Code] (https://github.com/torvalds/linux)
 
 `git push`
-
-`git commit`
+> ![NOTE]
+`git commit -m helloworld`
 
