@@ -15,4 +15,5 @@ Please Use E-Mail Address mailto:2314662431@qq.com To Contact Me
 
 
 > [!NOTE]
-git
+This Git Command to commit your change with message
+`git add README.md & git commit -m helloworld & git push`
