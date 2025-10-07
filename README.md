@@ -14,7 +14,7 @@ Please Use E-Mail Address mailto:2314662431@qq.com To Contact Me
 
 My XMPP Address is:xmpp:huangjinzhou@conversations.im
 
-
+> [![翻譯狀態](https://hosted.weblate.org/widget/andors-trail/user-interface/287x66-grey.png)](https://hosted.weblate.org/engage/andors-trail/)
 
 
 > [!NOTE]
