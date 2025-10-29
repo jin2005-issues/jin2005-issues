@@ -20,3 +20,7 @@ My XMPP Address is:xmpp:huangjinzhou@conversations.im
 > [!NOTE]
 This Git Command to commit your change with message
 `git add README.md & git commit -m helloworld & git push`
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jin2005-issues/jin2005-issues&type=timeline&logscale&legend=top-left)](https://www.star-history.com/#jin2005-issues/jin2005-issues&type=timeline&logscale&legend=top-left)
